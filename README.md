@@ -42,5 +42,5 @@ This project explores customer shopping patterns using a structured data analyti
 - Recommended targeted marketing strategies based on behavioral clusters
 
 
-Let me know if you'd like this tailored for a GitHub repo, portfolio site, or job application. I can also help you write a short project summary for LinkedIn or your resume.
+
 
