@@ -1,5 +1,4 @@
 # Customer-Data
-Here’s a clean, recruiter-friendly README template for your data analytics project on customer shopping behavior:
 
 ---
 
